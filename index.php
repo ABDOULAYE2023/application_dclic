@@ -32,8 +32,8 @@
         <div class="container">
             <nav class="navbar bg-body-tertiary;">
                 <a class="navbar-brand" style="left: 20px;" href="#">Accueil</a>
-                <a class="navbar-brand" href="#  Inscription">  Inscription</a>
-                <a class="navbar-brand" href="#Liste des apprenants ">Liste des apprenants </a>
+                <a class="navbar-brand" href="../Application_dclic/php/ajoutbd.php">  Inscription</a>
+                <a class="navbar-brand" href="../Application_dclic/php/listeApprenant.php ">Liste des apprenants </a>
                <div>
                 <a class="navbar-brand" href="#"><img src="images/icons8-chercher-50.png" width="30px" alt=""></a>
             </div>

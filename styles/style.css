@@ -10,13 +10,11 @@
   margin-bottom: 20px;
 }
 .link {
-    background-color: #6F7BD9;
+    background-color: greenyellow;
     padding: 10px 20px;
     color: #fff;
     border-radius: 6px;
     text-decoration: 0;
-
-
 }
 h1 {
     margin-bottom: 10px;
@@ -34,10 +32,10 @@ body {
 main {
     width: 50%;
 }
-img {
-    width: 30px;
-    text-align: center;
-}
+/* .Modifier_text {
+  color: white;
+  text-decoration: none;
+} */
 .statut {
     height: 10px;
 }
@@ -113,9 +111,9 @@ form input {
 }
 form input[type="submit"]{
    cursor: pointer;
-    background-color: #6F7BD9;
+    background-color: #78d96f;
     color: #fff;
-    border: 1px solid #6F7BD9;
+    border: 1px solid #78d96f;
 
 }
 .back {
@@ -193,4 +191,9 @@ form input[type="submit"]{
 .link {
   margin: 20px 0;
 }
- 
+.body {
+  background-image: url('../images/article_comment_enseigner_le_numerique-950px.png__776x3104_q85_replace_alpha-#FFFFFF_subsampling-2.jpg');
+  background-size: cover;
+  background-position: center;
+  /* Ajoutez d'autres styles au besoin */
+}
