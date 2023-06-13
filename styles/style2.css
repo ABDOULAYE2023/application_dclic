@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rowdies', cursive;
+}
+
+body {
+    background-image: url(../images/10knum_image.png);
+background-size: cover;
+   background-repeat: no-repeat;
+    
+}
+    /* Ajoutez d'autres styles au besoin */
+
+    .Modifier_text{
+text-decoration: none;
+color: aliceblue;
+
+    }

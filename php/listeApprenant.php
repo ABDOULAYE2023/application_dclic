@@ -6,10 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Liste des apprenants</title>
     <link rel="stylesheet" href="../styles/style.css">
+    <link rel="stylesheet" href="../styles/style2.css">
     <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
 </head>  
 <body >
-    
+    <div class="bod"></div>
     <main>
         <div class="link_container">
             <a class="link" href="ajoutbd.php">Ajouter un utilisateur</a>

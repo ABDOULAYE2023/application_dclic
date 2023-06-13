@@ -191,9 +191,3 @@ form input[type="submit"]{
 .link {
   margin: 20px 0;
 }
-.body {
-  background-image: url('../images/article_comment_enseigner_le_numerique-950px.png__776x3104_q85_replace_alpha-#FFFFFF_subsampling-2.jpg');
-  background-size: cover;
-  background-position: center;
-  /* Ajoutez d'autres styles au besoin */
-}
